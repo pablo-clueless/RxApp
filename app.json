@@ -3,7 +3,7 @@
     "name": "RxApp",
     "slug": "rx-app",
     "version": "1.0.0",
-    "owner": "pablo-clueless",
+    "owner": "pablo_clueless",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",

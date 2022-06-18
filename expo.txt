@@ -1,0 +1,1 @@
+https://expo.dev/@pablo_clueless/rx-app?serviceType=classic&distribution=expo-go
